@@ -4,7 +4,8 @@ import ProductList from "./components/ProductList";
 import Checkout from "./pages/Checkout";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";       
-import ContactFAB from "./components/ContactFab"; 
+import ContactFAB from "./components/ContactFAB";
+
 
 function App() {
   return (
